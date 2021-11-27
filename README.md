@@ -21,6 +21,6 @@
 - [Repository ownership](repo-ownership/)
 - [Workflows](workflows/)
 - [Overcoming contributor friction](contributor-friction/)
-- [The Trusted Committer rol (TC)](tc-role/)
+- [The Trusted Committer role (TC)](tc-role/)
 
 This repository is licensed under [CC-by-4](../LICENSE) (c) 2019 GitHub, Inc.
